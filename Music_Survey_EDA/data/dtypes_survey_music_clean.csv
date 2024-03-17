@@ -1,0 +1,34 @@
+,0
+Timestamp,datetime64[ns]
+Age,float64
+Primary streaming service,category
+Hours per day,float64
+While working,category
+Instrumentalist,category
+Composer,category
+Fav genre,category
+Exploratory,category
+Foreign languages,category
+BPM,float64
+Frequency [Classical],float64
+Frequency [Country],float64
+Frequency [EDM],float64
+Frequency [Folk],float64
+Frequency [Gospel],float64
+Frequency [Hip hop],float64
+Frequency [Jazz],float64
+Frequency [K pop],float64
+Frequency [Latin],float64
+Frequency [Lofi],float64
+Frequency [Metal],float64
+Frequency [Pop],float64
+Frequency [R&B],float64
+Frequency [Rap],float64
+Frequency [Rock],float64
+Frequency [Video game music],float64
+Anxiety,float64
+Depression,float64
+Insomnia,float64
+OCD,float64
+Music effects,category
+Permissions,category

@@ -1,0 +1,30 @@
+﻿release,release_date,release_commentary
+1.2023.159,2023-06-12,"· Shared Links: Share your chats with others. Recipients of your shared links can view and continue the chats you shared with them.
+· iPad Compatibility: The app now takes advantage of the entire iPad screen.
+· Drag and Drop Support: Individual messages can now be dragged and dropped into other apps.
+· Siri and Shortcuts Integration: ChatGPT can now be used directly with Siri and Shortcuts."
+1.2023.152,2023-06-08,"· iPad Compatibility: The app now takes advantage of the entire iPad screen.
+· Drag and Drop Support: Individual messages can now be dragged and dropped into other apps.
+· Siri and Shortcuts Integration: ChatGPT can now be used directly with Siri and Shortcuts."
+1.2023.23,2023-05-25,"· Improved Right-to-Left Language Support: Responses in Right-to-Left languages will now be rendered correctly.
+· Enhanced Voice Input: You can now customize the default language for voice input in the settings.
+· Clear Chat History: Go to Data Controls (in Settings) to clear your chat history.
+· Disable History: Chats started on your device when chat history is disabled won’t be used to improve our models, won’t appear in your history on your other devices, and will only be stored for 30 days. This setting does not sync across devices. You can find it under Data Controls in your app's Settings."
+1.2023.22,2023-05-24,"· Enhanced Voice Input: You can now customize the default language for voice input in the settings.
+
+· Clear Chat History: Go to Data Controls (in Settings) to clear your chat history.
+
+· Disable History: Chats started on your device when chat history is disabled won’t be used to improve our models, won’t appear in your history on your other devices, and will only be stored for 30 days. This setting does not sync across devices. You can find it in the Data Controls."
+1.2023.21,2023-05-19,"This update of the ChatGPT app brings the following improvements:
+
+· enhanced battery efficiency,
+
+· haptic feedback will be auto-disabled on low battery,
+
+· better full-screen sheet accessibility,
+
+· resolved message input field visual glitches.
+
+
+Thank you for your early feedback!"
+1.2023.20,2023-05-18,First Release.
